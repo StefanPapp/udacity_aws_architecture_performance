@@ -1,0 +1,4 @@
+# rename to terraform.tfvars and add keys
+region = "eu-central-1"
+access_key = "<add secret key here>"
+secret_key = "<add secret key here>"
