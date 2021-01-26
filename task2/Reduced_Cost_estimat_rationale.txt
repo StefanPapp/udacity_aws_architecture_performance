@@ -1,0 +1,4 @@
+# Rationale:
+* Using the new arm based m6g instances is maybe the best way to reduce costs as they promise to have 20% cost reduction and at the same time, performance is increased
+* Additionally, reducing the instance sizes for DB and EC2 adds an additional cost reduction
+* Other parameters can be adjusted as well based on usage, but as for instance +100 GB for S3 or so would not change the budget, it is ignored in this calculation
